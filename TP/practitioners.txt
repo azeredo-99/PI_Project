@@ -1,0 +1,3 @@
+1;Paulo Silva;123456789;52
+3;Maria João Rodrigues;96543210;40
+2;João Nuno Bettencourt;123321123;25
